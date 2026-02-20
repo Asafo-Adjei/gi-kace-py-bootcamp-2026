@@ -10,5 +10,9 @@ if answer == "yes":
         print("Then take an umbrella")
     
 elif answer == "no":
-    print("Enjoy your")
+    print("Enjoy your day")
     
+
+
+
+
